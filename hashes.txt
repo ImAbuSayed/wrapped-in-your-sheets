@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Wrapped In Your Sheets
+
+This log tracks the cryptographic history and versioning for the song **Wrapped In Your Sheets** (wrapped-in-your-sheets).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-02T13:50:19.850540 | `v1` | `a4af99157769cd4da806fcf1846f1b5bdc1c82368034374581db35cf1725819b` | `98e897989815d9eec4e949dcedba0b4a9f5c1dde55d825854c7ccee38c011276` | `2026-06-02_wrapped-in-your-sheets-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wrapped-in-your-sheets/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Wrapped In Your Sheets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-in-your-sheets/) |
+| **Get License** | [Obtain a Music License for Wrapped In Your Sheets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-in-your-sheets/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a4af99157769cd4da806fcf1846f1b5bdc1c82368034374581db35cf1725819b` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
