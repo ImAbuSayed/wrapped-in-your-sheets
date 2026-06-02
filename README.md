@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wrapped-in-your-sheets/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Wrapped In Your Sheets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-in-your-sheets/) |
+| **Get License** | [Official Music Licensing for Wrapped In Your Sheets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-in-your-sheets/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The heavy rain is pouring down
+> Upon this sleepy little town
+> The morning light is out of reach
+> When I am wrapped inside your sheets
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
